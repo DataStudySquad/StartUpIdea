@@ -1,4 +1,4 @@
-# StartUpIdea
+# StartUp Idea
 
 
 ## Ideas
